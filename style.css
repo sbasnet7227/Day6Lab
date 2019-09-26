@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+    }
+    body{
+    background-color: #F3FCD2;
+    background-image: url(chicken.jpg);
+    
+    
+    }
+    header{
+    background-color:  #2BAD8F;
+    text-align: center;
+    
+    } 
+    
+    nav{
+    background-color:#A9D0F8
+    }
+    
+    main{
+    background-color: #C3FAC0
+    }
+    article img{
+        width: 100%;
+    
+        max-width: 2000px;
+        
+    
+    
+    }
+    footer{
+    
+    }
